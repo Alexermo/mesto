@@ -1,6 +1,11 @@
 .profile_edit_button {
-  margin: 0;
+  box-sizing: border-box;
+  margin: 0 0 0 18px;
   width: 24px;
   height: 24px;
-  align-self: center;
+  border: 1px solid #FFFFFF;
+  background: url(../../../../images/profile_edit_button.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  cursor: pointer;
 }
