@@ -8,4 +8,13 @@
   background: url(../../../../images/profile_add_button.svg);
   background-repeat: no-repeat;
   background-position: center;
+  margin: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .profile_add_button {
+    width: 282px;
+    margin: 36px auto 0;
+    background-size: 16px;
+  }
 }
