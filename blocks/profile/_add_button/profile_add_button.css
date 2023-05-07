@@ -11,6 +11,18 @@
   margin: 0;
 }
 
+.profile_add_button:hover {
+  opacity: 0.6;
+}
+
+@media screen and (max-width: 896px) {
+  .profile_add_button {
+    width: 282px;
+    margin: 36px auto 0;
+
+  }
+}
+
 @media screen and (max-width: 767px) {
   .profile_add_button {
     width: 282px;

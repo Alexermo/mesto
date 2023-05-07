@@ -1,8 +1,7 @@
 .element__image {
-  max-width: 280px;
-  max-height: 280px;
+  max-width: 282px;
+  max-height: 282px;
   margin: 0;
-  background-size: cover;
   background-repeat: no-repeat;
   background: #c4c4c4;
   border-radius: 10px 10px 0px 0px;
